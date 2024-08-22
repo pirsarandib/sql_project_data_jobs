@@ -185,3 +185,9 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
+
+## Future Work
+
+- **Extend the Analysis**: Include additional job roles within the data science domain, such as machine learning engineers, data engineers, and business analysts.
+- **Incorporate Time Series Analysis**: Implement time series analysis to track how demand for skills and salaries evolve over time.
+- **Explore Predictive Modeling**: Utilize machine learning techniques to predict future trends in the job market, offering insights into emerging skills and changing salary expectations.
