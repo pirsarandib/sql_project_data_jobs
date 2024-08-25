@@ -46,6 +46,9 @@ ORDER BY
       salary_year_avg DESC 
 LIMIT 100;
 ```
+!(https://github.com/pirsarandib/sql_project_data_jobs/blob/main/sql_queries/1_top_paying_jobs.jpg)
+
+
 ### 2. What Are the Top Skills for 100 Top Paying Data Analyst Jobs?
 **Insights:** SQL, Python, Tableau, R, and SAS are the top skills mentioned in these lucrative job postings, highlighting their importance in securing high-paying positions
 
@@ -110,6 +113,8 @@ ORDER BY
     salary_year_avg DESC 
 LIMIT 100;
 ```
+!(https://github.com/pirsarandib/sql_project_data_jobs/blob/main/sql_queries/2_skills.jpg)
+
 
 ### 3. What Are the Most Demanded Skills for Remote Data Analyst Jobs?
 **Insights:** This analysis provides a clear picture of the most sought-after skills for remote Data Analyst roles, guiding professionals on where to focus their skill development.
@@ -134,6 +139,7 @@ ORDER BY
       skills_counts DESC 
 LIMIT 5;
 ```
+!(https://github.com/pirsarandib/sql_project_data_jobs/blob/main/sql_queries/3_most_demand_skills.jpg)
 
 
 ### 4. What Are the Top Paying Skills for Data Analysts?
@@ -160,6 +166,8 @@ ORDER BY
       avg_salary DESC
 LIMIT 10;
 ```
+!(https://github.com/pirsarandib/sql_project_data_jobs/blob/main/sql_queries/4_top_paying_skills.jpg)
+
 
 ### 5.What Are the Most Demanded Skills to Learn for a Data Analyst?
 **Insights:** This analysis guides data analysts on which skills to prioritize based on both demand and salary, ensuring they invest their time and resources wisely.
@@ -185,6 +193,8 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
+!(https://github.com/pirsarandib/sql_project_data_jobs/blob/main/sql_queries/5_most_optimal_skills.jpg)
+
 
 ## Future Work
 
